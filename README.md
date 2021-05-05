@@ -1,6 +1,7 @@
 # conscripted-gladiator
 iOS Turn-based strategy game written in swift 
 
-""" test
-@ test
+Come test your luck in the Adventurer Arena!
+
+
 ## test
